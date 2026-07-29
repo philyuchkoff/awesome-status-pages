@@ -87,7 +87,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
 * [Hund](https://hund.io/)
 * [Hydrozen.io](https://hydrozen.io/) - Uptime monitoring with built in fast Statuspages & Analytics.
-* [Hyperping.io](https://hyperping.io) - Public & private status pages with built-in monitoring.
+* [Hyperping](https://hyperping.com) - Public & private status pages with built-in uptime monitoring, on-call scheduling and incident updates.
 * [IsDown.app](https://isdown.app) - Status page aggregator for all cloud dependencies, uptime monitoring, and internal, and private status pages.
 * [Incident.io](https://incident.io) - Incident management, on-call alerting, and public, customer, and private status pages.
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
